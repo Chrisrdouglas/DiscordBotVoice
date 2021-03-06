@@ -1,0 +1,9 @@
+token = 'YOUR DISCORD BOT TOKEN HERE'
+command_prefix = 'YOUR CUSTOM COMMAND PREFIX HERE'
+Channel_Name = "CHANNEL NAME HERE"
+
+resemble_token = 'RESEMBLE TOKEN HERE'
+projectID = "RESEMBLE PROJECT ID HERE"
+voiceID = 'RESEMBLE Voice ID HERE'
+
+IP = "IPV4 HERE"
